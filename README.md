@@ -46,7 +46,7 @@ Relevant coursework: SQL, Data Mining, Data Visualization, Advanced Excel, Regre
 
 ## 📫 Connect
 
-- 💼 [LinkedIn][(https://www.linkedin.com/in/ian-swaby-208642a5/)]
+- 💼 [LinkedIn](https://www.linkedin.com/in/ian-swaby-208642a5/)
 - 📧 ianswaby24@gmail.com
 
 ---
