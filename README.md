@@ -27,14 +27,12 @@ End-to-end exploratory data analysis and KPI dashboard on a $8.95M retail sales 
 - Profit margin analysis by product category
 - **Tools:** Python (pandas) · Tableau · Advanced Excel
 
-### 🏨 Boutique Hotel Demand Forecasting *(Capstone — In Progress, Nov 2026)*
-Demand forecasting and revenue management model for boutique hotels using the Hotel Booking Demand dataset.
-- Comparing SARIMA, linear regression, and XGBoost across City vs Resort hotel types
-- Tableau visualization layer for revenue and occupancy insights
+### 🏨 Swiss Hotel Demand Forecasting *(Capstone, In Progress, Nov 2026)*
+Demand forecasting for the Swiss hotel sector using Swiss Federal Statistical Office data (monthly, by commune, 2013 to 2026), enriched with visitor country of residence data.
+- Comparing seasonal naive, linear regression, SARIMA, and XGBoost with time based validation
+- Tableau layer for demand and seasonality insights
 - **Tools:** Python · SARIMA · XGBoost · Tableau
-
 ---
-
 ## 🎓 Education
 
 **M.S. Business Analytics** — Franklin University, Columbus OH *(Expected Jan 2027)*
