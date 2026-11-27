@@ -2,7 +2,15 @@
 
 **Business & Data Analyst | M.S. Business Analytics candidate (Franklin University, Jan 2027)**
 
-I combine hands-on operational experience with applied analytics training to solve business problems through data, from demand forecasting and revenue management to KPI reporting and process improvement. Currently seeking analyst roles where I can apply data-driven thinking to real platform and business challenges.
+---
+
+## 👤 About Me
+
+I'm Ian, an MSBA student at Franklin University finishing in January 2027, and I build demand forecasting tools for the hospitality industry. I come from luxury hotel operations, including AGM training at the Lodge at Hocking College and resort work at Old Edwards Inn & Spa in Highlands, NC. That experience taught me that a forecast only matters if someone can act on it, like a revenue manager setting rates or a general manager planning staffing.
+
+My analytics philosophy is simple: start with the decision, then choose the simplest model that supports it. A seasonal naive baseline a team trusts often beats a complex model nobody understands, so I only use machine learning when it earns its place against that baseline. I care as much about clean data and honest validation as I do about accuracy scores.
+
+I work mainly in Python, SQL, and Tableau, with a focus on demand forecasting and revenue management. My goal is to join a hospitality or travel organization as a revenue or business analyst, turning operational experience and forecasting skills into better pricing and planning decisions. Longer term, I'd like to consult for boutique hotels and property owners.
 
 ---
 
@@ -20,6 +28,14 @@ I combine hands-on operational experience with applied analytics training to sol
 
 ## 📁 Projects
 
+### 🏨 [Swiss Hotel Demand Forecasting](https://github.com/ianswaby/swiss-hotel-demand-forecasting) *(Capstone, In Progress)*
+
+Forecasting hotel demand with Swiss Federal Statistical Office data (monthly, 186 communes, 2013 to 2026). Comparing a seasonal baseline against regression and machine learning models, with a focus on where simple forecasts are hard to beat.
+
+- Time based validation, WAPE as the error metric
+- Early finding: the best regression beats the baseline in 126 of 179 communes, but not where hotel capacity changed
+- **Tools:** Python · scikit-learn · Google Colab
+
 ### 🛒 [Superstore Sales Dashboard & Analysis](https://github.com/ianswaby/superstore-sales-analysis)
 
 End-to-end exploratory data analysis and KPI dashboard on a $8.95M retail sales dataset.
@@ -28,14 +44,6 @@ End-to-end exploratory data analysis and KPI dashboard on a $8.95M retail sales 
 - Regional, segment, and department profitability breakdowns
 - Profit margin analysis by product category
 - **Tools:** Python (pandas) · Tableau · Advanced Excel
-
-### 🏨 Swiss Hotel Demand Forecasting *(Capstone, In Progress, Nov 2026)*
-
-Forecasting hotel demand with Swiss Federal Statistical Office data (monthly, 186 communes, 2013 to 2026). Comparing a seasonal baseline against regression and machine learning models, with a focus on where simple forecasts are hard to beat.
-
-- Time based validation, WAPE as the error metric
-- Early finding: hotel capacity changes explain much of where a baseline fails
-- **Tools:** Python · scikit-learn · Google Colab
 
 ---
 
