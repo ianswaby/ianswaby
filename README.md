@@ -6,7 +6,7 @@
 
 ## 👤 About Me
 
-I'm Ian, an MSBA student at Franklin University finishing in January 2027, and I'm building demand forecasting models for the hospitality industry. I come from luxury hotel operations, including AGM training at the Lodge at Hocking College and resort work at Old Edwards Inn & Spa in Highlands, NC. That experience taught me that a forecast only matters if someone can act on it, like a revenue manager setting rates or a general manager planning staffing.
+I'm Ian, an MSBA student at Franklin University finishing in January 2027, and I'm building demand forecasting models for the hospitality industry. I come from luxury hotel operations, including AGM training at the Lodge at Hocking College and resort work at Old Edwards Inn & Spa in Highlands, NC. That experience taught me that a forecast only matters if someone can act on it, like a revenue manager setting rates or a general manager planning staffing. 
 
 My analytics philosophy is simple: start with the decision, then choose the simplest model that supports it. A seasonal naive baseline a team trusts often beats a complex model nobody understands, so I only use machine learning when it earns its place against that baseline. I care as much about clean data and honest validation as I do about accuracy scores.
 
